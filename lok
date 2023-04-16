@@ -64,10 +64,29 @@ https://nyanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Kuripan
 https://cctv.banjarmasinkota.go.id/cam32/mystream.m3u8
 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Kuripan
-https://cctv.banjarmasinkota.go.id/cam22/mystream.m3u8
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Dermaga Apung 1
+https://cctv.banjarmasinkota.go.id/cam24/mystream.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Halaman Pordarwis
+https://cctv.banjarmasinkota.go.id/cam25/mystream.m3u8
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Jembatan HKSN
+https://cctv.banjarmasinkota.go.id/cam31/mystream.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV TPS Kuripan
+https://cctv.banjarmasinkota.go.id/cam34/mystream.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
