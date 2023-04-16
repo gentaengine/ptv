@@ -60,62 +60,62 @@ https://nyanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Kuripan
+#EXTINF:-1 group-title="Live CCTV" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Kuripan
 https://cctv.banjarmasinkota.go.id/cam32/mystream.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Dermaga Apung 1
+#EXTINF:-1 group-title="Live CCTV" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Dermaga Apung 1
 https://cctv.banjarmasinkota.go.id/cam24/mystream.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Halaman Pordarwis
+#EXTINF:-1 group-title="Live CCTV" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Halaman Pordarwis
 https://cctv.banjarmasinkota.go.id/cam25/mystream.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Jembatan HKSN
+#EXTINF:-1 group-title="Live CCTV" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Jembatan HKSN
 https://cctv.banjarmasinkota.go.id/cam31/mystream.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV TPS Kuripan
+#EXTINF:-1 group-title="Live CCTV" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV TPS Kuripan
 https://cctv.banjarmasinkota.go.id/cam34/mystream.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Siring Sungai Baru
+#EXTINF:-1 group-title="Live CCTV" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Siring Sungai Baru
 https://cctv.banjarmasinkota.go.id/cam23/mystream.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Fly Over
+#EXTINF:-1 group-title="Live CCTV" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Fly Over
 https://atcs.serverdishub.tech/video/flyover/1/ptz-flyover.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Simpang 3 Sugiono
+#EXTINF:-1 group-title="Live CCTV" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Simpang 3 Sugiono
 https://atcs.serverdishub.tech/video/kolonelsugiono/1/ptz-kolonelsugiono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Simpang 3 Merdeka
+#EXTINF:-1 group-title="Live CCTV" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Simpang 3 Merdeka
 https://atcs.serverdishub.tech/video/simp3merdeka/1/ptz-simp3merdeka.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Siring Patung Bekantan
+#EXTINF:-1 group-title="Live CCTV" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Siring Patung Bekantan
 https://cctv.banjarmasinkota.go.id/cam21/mystream.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Patung Bekantan
+#EXTINF:-1 group-title="Live CCTV" tvg-logo="https://i.postimg.cc/HnYqSCx6/logobjm.png",Live CCTV Patung Bekantan
 https://cctv.banjarmasinkota.go.id/cam17/mystream.m3u8
 
 
@@ -158,11 +158,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280
 #EXTINF:-1 tvg-logo="" group-title="TV Indonesia", Moji
 http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="", Moji
-http://mpwtv.my.id/vidioye/206-moji.m3u8
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="", Moji
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/206.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
