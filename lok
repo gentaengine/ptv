@@ -8,6 +8,11 @@ https://bit.ly/2KS6yk1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://www.pngwing.com/id/free-png-czzav" group-title="Lokal HD rs",Indosiar
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880788
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="Movies",HBO (hw8871)
 https://hw8871-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
@@ -166,14 +171,14 @@ https://m3u-editor.com/serve/47b9da10-dc6b-11ed-80fe-0183c944ea23/822656776
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="",SCTV
 http://rr2.dens.tv/s/s03/index.m3u8
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="", SCTV 2
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="",SCTV 2
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8 
 #https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8 
-@https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="TV Indonesia", Moji
