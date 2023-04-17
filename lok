@@ -5,6 +5,10 @@ https://bit.ly/2KS6yk1
 #https://www.dropbox.com/s/0enlcapwd4syosm/Kayla%20Vid.mp4?dl=1
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://www.pngwing.com/id/free-png-czzav" group-title="Lokal HD rs",ASTRO Super Sport
+http://skylogic.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/146068
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
@@ -22,9 +26,13 @@ https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880789
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://www.pngwing.com/id/free-png-czzav" group-title="Lokal HD rs",GTV
 https://api.rctiplus.com/
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tT7vzPqZ/image.png" group-title="TV Lokal",GARUDA TV Banten
+https://stream.garuda.tv/live/garudatv/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
-#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://www.pngwing.com/id/free-png-czzav" group-title="Lokal HD rs",Duta TV
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://www.pngwing.com/id/free-png-czzav" group-title="TV Lokal",Duta TV
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880848
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1231,8 +1239,7 @@ https://rpn1.bozztv.com/36bay2/gusa-tvssilodiscount/index.m3u8
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 tvg-id="UniquelyThai.vn" tvg-logo="https://i.imgur.com/cTSDB8O.png" group-title="Shop",Uniquely Thai (720p)
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="VatiLao.la" tvg-logo="https://i.imgur.com/NwxXABV.png" group-title="Entertainment;Shop",Vati Lao TV (720p)
-https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WShopping.kr" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="Shop",W Shopping (720p)
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 #EXTINF:-1 tvg-id="Yuvelirochka.ru" tvg-logo="https://i.imgur.com/IcWtXCZ.png" group-title="Shop",Ювелирочка ТВ (576p)
@@ -1383,8 +1390,7 @@ http://210.210.155.37/uq2663/h/h223/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tT7vzPqZ/image.png" group-title="TV Lokal",GARUDA TV Banten
-https://stream.garuda.tv/live/garudatv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2642q4E.png",Trans TV
